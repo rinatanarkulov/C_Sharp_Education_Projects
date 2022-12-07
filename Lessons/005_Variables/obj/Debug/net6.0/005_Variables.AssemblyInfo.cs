@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleEducationApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("005_Variables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleEducationApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleEducationApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("005_Variables")]
+[assembly: System.Reflection.AssemblyTitleAttribute("005_Variables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

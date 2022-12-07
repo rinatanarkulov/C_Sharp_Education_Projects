@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\ConsoleEducationApp.csproj",
-      "projectName": "ConsoleEducationApp",
-      "projectPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\ConsoleEducationApp.csproj",
+      "projectUniqueName": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\004_Console\\004_Console.csproj",
+      "projectName": "004_Console",
+      "projectPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\004_Console\\004_Console.csproj",
       "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\obj\\",
+      "outputPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\004_Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config",

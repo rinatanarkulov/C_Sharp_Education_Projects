@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\ConsoleEducationApp.csproj": {}
+    "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\ConsoleEducationApp.csproj": {
+    "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\ConsoleEducationApp.csproj",
-        "projectName": "ConsoleEducationApp",
-        "projectPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\ConsoleEducationApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj",
+        "projectName": "005_Variables",
+        "projectPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj",
         "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\ConsoleEducationApp\\obj\\",
+        "outputPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config",
