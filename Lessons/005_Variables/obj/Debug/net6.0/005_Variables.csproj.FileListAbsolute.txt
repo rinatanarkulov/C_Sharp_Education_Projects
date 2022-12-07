@@ -1,0 +1,15 @@
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\bin\Debug\net6.0\005_Variables.exe
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\bin\Debug\net6.0\005_Variables.deps.json
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\bin\Debug\net6.0\005_Variables.runtimeconfig.json
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\bin\Debug\net6.0\005_Variables.dll
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\bin\Debug\net6.0\005_Variables.pdb
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.csproj.AssemblyReference.cache
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.AssemblyInfoInputs.cache
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.AssemblyInfo.cs
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.csproj.CoreCompileInputs.cache
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.dll
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\refint\005_Variables.dll
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.pdb
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\005_Variables.genruntimeconfig.cache
+D:\Rinat\C_Sharp_Education_Projects\Lessons\005_Variables\obj\Debug\net6.0\ref\005_Variables.dll
