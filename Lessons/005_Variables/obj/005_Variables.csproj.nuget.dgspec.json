@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj": {}
+    "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj": {}
   },
   "projects": {
-    "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj": {
+    "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj",
+        "projectUniqueName": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj",
         "projectName": "005_Variables",
-        "projectPath": "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj",
-        "packagesPath": "C:\\Users\\siuza\\.nuget\\packages\\",
-        "outputPath": "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\obj\\",
+        "projectPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\005_Variables.csproj",
+        "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\005_Variables\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\siuza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

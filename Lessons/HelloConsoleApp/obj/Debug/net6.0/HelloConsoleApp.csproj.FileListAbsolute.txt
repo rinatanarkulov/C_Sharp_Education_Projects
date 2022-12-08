@@ -1,0 +1,15 @@
+C:\Users\Ринат\source\repos\HelloConsoleApp\bin\Debug\net6.0\HelloConsoleApp.exe
+C:\Users\Ринат\source\repos\HelloConsoleApp\bin\Debug\net6.0\HelloConsoleApp.deps.json
+C:\Users\Ринат\source\repos\HelloConsoleApp\bin\Debug\net6.0\HelloConsoleApp.runtimeconfig.json
+C:\Users\Ринат\source\repos\HelloConsoleApp\bin\Debug\net6.0\HelloConsoleApp.dll
+C:\Users\Ринат\source\repos\HelloConsoleApp\bin\Debug\net6.0\HelloConsoleApp.pdb
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.AssemblyInfo.cs
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.dll
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\refint\HelloConsoleApp.dll
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.pdb
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\HelloConsoleApp.genruntimeconfig.cache
+C:\Users\Ринат\source\repos\HelloConsoleApp\obj\Debug\net6.0\ref\HelloConsoleApp.dll

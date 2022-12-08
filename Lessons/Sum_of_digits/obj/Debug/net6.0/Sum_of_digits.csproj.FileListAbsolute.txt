@@ -1,0 +1,15 @@
+C:\Users\Ринат\source\repos\Sum_of_digits\bin\Debug\net6.0\Sum_of_digits.exe
+C:\Users\Ринат\source\repos\Sum_of_digits\bin\Debug\net6.0\Sum_of_digits.deps.json
+C:\Users\Ринат\source\repos\Sum_of_digits\bin\Debug\net6.0\Sum_of_digits.runtimeconfig.json
+C:\Users\Ринат\source\repos\Sum_of_digits\bin\Debug\net6.0\Sum_of_digits.dll
+C:\Users\Ринат\source\repos\Sum_of_digits\bin\Debug\net6.0\Sum_of_digits.pdb
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.csproj.AssemblyReference.cache
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.AssemblyInfoInputs.cache
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.AssemblyInfo.cs
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.csproj.CoreCompileInputs.cache
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.dll
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\refint\Sum_of_digits.dll
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.pdb
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\Sum_of_digits.genruntimeconfig.cache
+C:\Users\Ринат\source\repos\Sum_of_digits\obj\Debug\net6.0\ref\Sum_of_digits.dll

@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\siuza\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Ринат\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\006_Machine_Maths\\006_Machine_Maths.csproj",
+      "projectUniqueName": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\006_Machine_Maths\\006_Machine_Maths.csproj",
       "projectName": "006_Machine_Maths",
-      "projectPath": "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\006_Machine_Maths\\006_Machine_Maths.csproj",
-      "packagesPath": "C:\\Users\\siuza\\.nuget\\packages\\",
-      "outputPath": "D:\\Rinat\\C_Sharp_Education_Projects\\Lessons\\006_Machine_Maths\\obj\\",
+      "projectPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\006_Machine_Maths\\006_Machine_Maths.csproj",
+      "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ринат\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\006_Machine_Maths\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\siuza\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
