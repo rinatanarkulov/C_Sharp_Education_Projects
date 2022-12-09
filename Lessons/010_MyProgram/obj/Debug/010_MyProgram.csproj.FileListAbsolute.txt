@@ -1,0 +1,8 @@
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\bin\Debug\010_MyProgram.exe.config
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\bin\Debug\010_MyProgram.exe
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\bin\Debug\010_MyProgram.pdb
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\obj\Debug\010_MyProgram.csproj.AssemblyReference.cache
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\obj\Debug\010_MyProgram.csproj.SuggestedBindingRedirects.cache
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\obj\Debug\010_MyProgram.csproj.CoreCompileInputs.cache
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\obj\Debug\010_MyProgram.exe
+D:\Rinat\C_Sharp_Education_Projects\Lessons\010_MyProgram\obj\Debug\010_MyProgram.pdb
