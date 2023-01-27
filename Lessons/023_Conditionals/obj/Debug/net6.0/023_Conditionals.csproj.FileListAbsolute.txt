@@ -1,0 +1,15 @@
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\bin\Debug\net6.0\023_Conditionals.exe
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\bin\Debug\net6.0\023_Conditionals.deps.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\bin\Debug\net6.0\023_Conditionals.runtimeconfig.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\bin\Debug\net6.0\023_Conditionals.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\bin\Debug\net6.0\023_Conditionals.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.csproj.AssemblyReference.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.AssemblyInfoInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.AssemblyInfo.cs
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.csproj.CoreCompileInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\refint\023_Conditionals.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\023_Conditionals.genruntimeconfig.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\023_Conditionals\obj\Debug\net6.0\ref\023_Conditionals.dll

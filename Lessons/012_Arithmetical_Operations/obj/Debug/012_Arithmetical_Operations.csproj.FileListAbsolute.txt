@@ -1,0 +1,8 @@
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\bin\Debug\012_Arithmetical_Operations.exe.config
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\bin\Debug\012_Arithmetical_Operations.exe
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\bin\Debug\012_Arithmetical_Operations.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\obj\Debug\012_Arithmetical_Operations.csproj.AssemblyReference.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\obj\Debug\012_Arithmetical_Operations.csproj.SuggestedBindingRedirects.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\obj\Debug\012_Arithmetical_Operations.csproj.CoreCompileInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\obj\Debug\012_Arithmetical_Operations.exe
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\012_Arithmetical_Operations\obj\Debug\012_Arithmetical_Operations.pdb

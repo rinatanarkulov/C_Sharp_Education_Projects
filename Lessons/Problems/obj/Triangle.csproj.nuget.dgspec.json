@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ринат\\source\\repos\\Problems\\Triangle.csproj": {}
+    "D:\\Program files\\Media\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\Problems\\Triangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ринат\\source\\repos\\Problems\\Triangle.csproj": {
+    "D:\\Program files\\Media\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\Problems\\Triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ринат\\source\\repos\\Problems\\Triangle.csproj",
+        "projectUniqueName": "D:\\Program files\\Media\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\Problems\\Triangle.csproj",
         "projectName": "Triangle",
-        "projectPath": "C:\\Users\\Ринат\\source\\repos\\Problems\\Triangle.csproj",
-        "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ринат\\source\\repos\\Problems\\obj\\",
+        "projectPath": "D:\\Program files\\Media\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\Problems\\Triangle.csproj",
+        "packagesPath": "C:\\Users\\Swift_5_Pro\\.nuget\\packages\\",
+        "outputPath": "D:\\Program files\\Media\\Documents\\GitHub\\C_Sharp_Education_Projects\\Lessons\\Problems\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Swift_5_Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

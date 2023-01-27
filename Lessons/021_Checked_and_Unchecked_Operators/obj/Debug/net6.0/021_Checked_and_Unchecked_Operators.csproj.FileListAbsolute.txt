@@ -1,0 +1,15 @@
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\bin\Debug\net6.0\021_Checked_and_Unchecked_Operators.exe
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\bin\Debug\net6.0\021_Checked_and_Unchecked_Operators.deps.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\bin\Debug\net6.0\021_Checked_and_Unchecked_Operators.runtimeconfig.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\bin\Debug\net6.0\021_Checked_and_Unchecked_Operators.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\bin\Debug\net6.0\021_Checked_and_Unchecked_Operators.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.csproj.AssemblyReference.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.AssemblyInfoInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.AssemblyInfo.cs
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.csproj.CoreCompileInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\refint\021_Checked_and_Unchecked_Operators.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\021_Checked_and_Unchecked_Operators.genruntimeconfig.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\021_Checked_and_Unchecked_Operators\obj\Debug\net6.0\ref\021_Checked_and_Unchecked_Operators.dll

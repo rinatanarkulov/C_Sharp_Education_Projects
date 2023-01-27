@@ -1,0 +1,15 @@
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\bin\Debug\net6.0\016_Logical_Operations.exe
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\bin\Debug\net6.0\016_Logical_Operations.deps.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\bin\Debug\net6.0\016_Logical_Operations.runtimeconfig.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\bin\Debug\net6.0\016_Logical_Operations.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\bin\Debug\net6.0\016_Logical_Operations.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.csproj.AssemblyReference.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.AssemblyInfoInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.AssemblyInfo.cs
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.csproj.CoreCompileInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\refint\016_Logical_Operations.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\016_Logical_Operations.genruntimeconfig.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\016_Logical_Operations\obj\Debug\net6.0\ref\016_Logical_Operations.dll

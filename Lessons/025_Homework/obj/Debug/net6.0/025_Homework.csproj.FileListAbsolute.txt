@@ -1,0 +1,15 @@
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\bin\Debug\net6.0\025_Homework.exe
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\bin\Debug\net6.0\025_Homework.deps.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\bin\Debug\net6.0\025_Homework.runtimeconfig.json
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\bin\Debug\net6.0\025_Homework.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\bin\Debug\net6.0\025_Homework.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.csproj.AssemblyReference.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.AssemblyInfoInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.AssemblyInfo.cs
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.csproj.CoreCompileInputs.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\refint\025_Homework.dll
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.pdb
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\025_Homework.genruntimeconfig.cache
+D:\Program files\Media\Documents\GitHub\C_Sharp_Education_Projects\Lessons\025_Homework\obj\Debug\net6.0\ref\025_Homework.dll
